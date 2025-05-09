@@ -1,0 +1,11 @@
+langchain_openai
+langchain_core
+langchain_community
+langchain
+openai
+chromadb
+pypdf
+openpyxl
+python-dotenv
+ipykernel
+sentence_transformers
